@@ -1,8 +1,6 @@
 # Welcome to my Book Depository.
-This Repository contains a list of all the books I've read and a summary.<br><br>
+This Repository contains a list of all the books I've read and a summary.
 This repository is free to use; however, it <strong>SHOULD NOT</strong> be used to complete school assignments of any kind.<br>
-
-
 
 <table>
 <tr>
